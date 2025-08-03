@@ -1,4 +1,5 @@
 # Tisha-demo
-This is my first Git repository 
+
+This is my first Git repository
 <br>
-Aothor - Tisha Bagde 
+Aothor - (Tisha Bagde)
